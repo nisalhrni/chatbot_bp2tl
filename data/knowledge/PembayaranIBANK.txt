@@ -1,0 +1,13 @@
+Tata Cara Pembayaran
+
+iBank Personal
+1. Akses ibank.bni.co.id
+2. Masukkan User ID dan password
+3. Klik menu Transfer, lalu pilih “Virtual Account Billing”.
+4. Kemudian masukan 16 digit nomor Virtual Account Anda
+Contoh: 9882987301240006 yang hendak dibayarkan.
+5. Plih rekening debet yang akan digunakan.
+Kemudian tekan „‟Lanjut‟‟
+6. Kemudin tagihan yang harus dibayarkan akan muncul pada layar konfirmasi.
+7. Masukkan kode otentikasi token.
+8. Pembayaran Anda telah berhasil

@@ -1,0 +1,12 @@
+Tata Cara Pembayaran
+
+Mobile Banking BNI
+1. Akses BNI Mobile Banking dari handphone kemudian masukkan user ID dan
+password.
+2. Pilih menu “Transfer”.
+3. Pilih menu “Virtual Account Billing” kemudian pilih rekening debet.
+4. Masukkan 16 digit nomor Virtual Account Anda
+Contoh: 9882987301240006 pada menu “Input Baru”.
+5. Tagihan yang harus dibayarkan akan muncul pada layar konfirmasi.
+6. Konfirmasi transaksi dan masukkan password transaksi.
+7. Pembayaran Anda telah berhasil.

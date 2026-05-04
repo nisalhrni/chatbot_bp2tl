@@ -1,0 +1,27 @@
+Biaya Diklat Fungsional
+
+- Terminal Operator Management dan BUP (Tatap Muka- BP2TL): Rp 9.355.000
+- Terminal Operator Management dan BUP (Daring): Rp 6.000.000
+- Port Basic Safety & Security Training (Tatap Muka, Tanpa LSP): Rp 750.000
+- IMDG Code (Tanpa LSP, Pelaksanaan diluar BP2TL): Rp 3.750.000
+- IMSBC Code (Tanpa LSP, Pelaksananaan diluar BP2TL): Rp 4.000.000
+- Sistem Informasi Angkutan Laut dan Kepelabuhanan ( Daring): Rp 2.400.000
+- Shipping Management (Tatap Muka): Rp 4.805.000
+- Shipping Agency (Tatap Muka): Rp 4.805.000
+- Internal Audit (Tatap Muka): Rp 4.805.000
+- Designated Person Ashore (DPA) (Tatap Muka-BP2TL): Rp 6.902.000
+- Designated Person Ashore (DPA) (Tatap Muka-Hotel): Rp 8.400.000
+- Pandu Tingkat I: Rp 43.700.000
+- Pandu Tingkat II: Rp 122.900.000
+- Dasar-dasar Kesyahbandaran: Rp 3.200.000
+- Dasar Pengukuran Kapal: Rp 3.800.000
+- Pandu Endorsment Tingkat  I (Tatap Muka): Rp 10.326.000
+- Pandu Endorsment Tingkat  II (Tatap Muka): Rp 9.592.000
+- Updating IMDG Code (Tatap Muka, di BP2TL, Tanpa LSP): Rp 2.000.000
+- Updating IMSBC Code (Tatap Muka, di BP2TL, Tanpa LSP): Rp 1.800.000
+- T.O.T 6.09 (Blended): Rp 6.000.000
+- T.O.T 6.09 (Tatap Muka): Rp 9.000.000
+- T.O.E 3.12 (Blended): Rp 6.500.000
+- T.O.E 3.12 (Tatap Muka): Rp 8.500.000
+- T.O.T 6.10 (Tatap Muka): Rp 8.000.000
+- T.O.T Kepelabuhan: Rp 8.500.000

@@ -1,0 +1,91 @@
+Reservasi Sarana di BP2TL
+
+- Asrama Standart
+Fasilitas: Ruang AC, Tempat Tidur 2, Closet Duduk, Wifi, Meja Belajar, Kursi Belajar
+Tarif Weekday / Satuan: 300.000 / Kamar/Hari
+Tarif Weekend / Satuan: 300.000 / Kamar/Hari
+Jam Check In - Check Out: 12:00 - 12:00
+Kapasitas: 2
+
+- Asrama VIP
+Tarif Weekday / Satuan: 350.000 / Kamar/Hari
+Tarif Weekend / Satuan: 350.000 / Kamar/Hari
+Jam Check In - Check Out: 12:00 - 12:00
+Kapasitas: 2
+
+-Aula Shift 1 
+Tarif Weekday / Satuan: 7.500.000 / Per Kegiatan/Pagi
+Tarif Weekend / Satuan: 8.500.000 / Per Kegiatan/Pagi
+Jam Check In - Check Out: 07:00 - 13.00
+Besaran DP: 4.250.000
+Kapasitas: 500
+
+-Aula Shift 2
+Tarif Weekday / Satuan: 7.500.000 / Per Kegiatan/Siang
+Tarif Weekend / Satuan: 8.500.000 / Per Kegiatan/Siang
+Jam Check In - Check Out: 13.00-21.00
+Besaran DP: 4.250.000
+Kapasitas: 500
+
+-Kelas Eksekutif
+Tarif Weekday / Satuan: 750.000 / Per Kelas/Hari
+Tarif Weekend / Satuan: 750.000 / Per Kelas/Hari
+Jam Check In - Check Out: 07.00-17.00
+Kapasitas: 30
+
+-Kelas Standart
+Tarif Weekday / Satuan: 500.000 / Per Kelas/Hari
+Tarif Weekend / Satuan: 500.000 / Per Kelas/Hari
+Jam Check In - Check Out: 07.00-17.00
+Kapasitas: 30
+
+-Kolam Latih
+Tarif Weekday / Satuan: 30.000 / Per Orang
+Tarif Weekend / Satuan: 30.000 / Per Orang
+Jam Check In - Check Out: 07.00-17.00
+Kapasitas: 60
+
+-Kursi Futura
+Tarif Weekday / Satuan: 5.000/pcs
+Tarif Weekend / Satuan: 5.000/pcs
+Jam Check In - Check Out: 07.00-18.00
+Kapasitas: 200
+
+-laboratorium Bahasa
+Tarif Weekday / Satuan:  2.000.000 / Per Kelas/Hari
+Tarif Weekend / Satuan:  2.000.000 / Per Kelas/Hari
+Jam Check In - Check Out: 07.00-17.00
+Besaran DP: 1.000.000, DP harus bayar 50%
+Kapasitas: 30
+
+-laboratorium menjangka peta
+Tarif Weekday / Satuan:  2.000.000 / Per Kelas/Hari
+Tarif Weekend / Satuan:  2.000.000 / Per Kelas/Hari
+Jam Check In - Check Out: 07.00-17.00
+Besaran DP: 1.000.000, DP harus bayar 50%
+Kapasitas: 10
+
+-laboratorium multimedia
+Tarif Weekday / Satuan:  2.000.000 / Per Kelas/Hari
+Tarif Weekend / Satuan:  2.000.000 / Per Kelas/Hari
+Jam Check In - Check Out: 07.00-17.00
+Besaran DP: 1.000.000, DP harus bayar 50%
+Kapasitas: 30
+
+-Ruang Rapat
+Tarif Weekday / Satuan:  1.500.000 / 8 jam
+Tarif Weekend / Satuan: 1.500.000 / 8 jam
+Jam Check In - Check Out: 07.00-17.00
+Kapasitas: 20
+
+- simulator main bridge
+Tarif Weekday / Satuan:  3.300.000 / Per Kelas/Hari
+Tarif Weekend / Satuan: 3.300.000 / Per Kelas/Hari
+Jam Check In - Check Out: 07.00-17.00
+Kapasitas: 5
+
+-unit bengkel dan workshop
+Tarif Weekday / Satuan:  3.300.000 / Per Kelas/Hari
+Tarif Weekend / Satuan: 3.300.000 / Per Kelas/Hari
+Jam Check In - Check Out: 07.00-17.00
+Kapasitas: 10

@@ -1,0 +1,9 @@
+Bagaimana Cara untuk melihat sertifikas dari pelatihan di BP2TL jika sudah online di web Pelaut.
+"Untuk mengecek apakah sertifikat sudah online atau belum, silakan cek melalui website berikut: https://pelaut.dephub.go.id/verifikasi
+Langkah pengecekan:
+1. Masukkan Nomor Kode Pelaut
+2. Masukkan Nomor Sertifikasi
+3. Lakukan Validasi TTE
+4. Isi Captcha yang tersedia
+5. Kemudian klik verifikasi
+Jika data sudah muncul, berarti sertifikatnya sudah terdata di sistem ya kak"

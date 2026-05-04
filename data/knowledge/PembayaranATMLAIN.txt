@@ -1,0 +1,13 @@
+Tata Cara Pembayaran
+
+ATM Bank Lain
+1. Pilih menu "Transfer antar bank" atau “Transfer online antar bank”.
+2. Masukkan kode bank BNI (009) atau pilih bank yang dituju yaitu BNI.
+3. Masukan 16 Digit Nomor Virtual Account pada kolom rekening tujuan,
+Contoh: 9882987301240006
+4. Masukkan nominal transfer sesuai tagihan atau kewajiban Anda. Nominal
+yang berbeda tidak dapat diproses.
+5. Masukkan jumlah pembayaran
+6. Konfirmasi rincian Anda akan tampil di layar, cek dan apabila sudah sesuai
+silahkan lanjutkan transaksi sampai dengan selesai.
+7. Transaksi Berhasil.

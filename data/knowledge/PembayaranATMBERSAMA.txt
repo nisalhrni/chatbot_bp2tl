@@ -1,0 +1,14 @@
+Tata Cara Pembayaran
+
+ATM Bersama
+1. Masukkan kartu ke mesin ATM Bersama.
+2. Pilih "Transaksi Lainnya".
+3. Pilih menu "Transfer".
+4. Pilih "Transfer ke Bank Lain".
+5. Masukkan kode bank BNI (009) dan 16 Digit Nomor Virtual Account
+Contoh: 9882987301240006
+6. Masukkan nominal transfer sesuai tagihan atau kewajiban Anda. Nominal
+yang berbedatidak dapat diproses.
+7. Konfirmasi rincian Anda akan tampil di layar, cek dan tekan 'Ya' untuk
+melanjutkan.
+8. Transaksi Berhasil.

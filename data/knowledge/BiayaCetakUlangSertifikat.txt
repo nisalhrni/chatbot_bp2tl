@@ -1,0 +1,19 @@
+Cetak Ulang Sertifikat
+
+CETAK ULANG 1X COP 
+Biaya diklat:250.000
+	  
+CETAK ULANG 2X COP 
+Biaya diklat:500.000
+	  
+CETAK ULANG 3X COP 
+Biaya diklat:750.000
+	  
+CETAK ULANG IJASAH (COC, COE) 
+Biaya diklat:500.000	  
+
+CETAK ULANG IJASAH COC	
+Biaya diklat:250.000	
+	  
+CETAK ULANG IJASAH COE	
+Biaya diklat:250.000

@@ -1,0 +1,11 @@
+Tata Cara Pembayaran
+
+Agen46
+1. Kunjungi Agen46 terdekat (warung/took/kios dengan tulisan Agen46).
+2. Informasikan kepada Agen46, bahwa ingin melakukan pembayaran Virtual.
+3. Serahkan 16 digit nomor Virtual Account Anda kepada Agen46.
+Contoh: 9882987301240006
+4. Agen46 melakukan konfirmasi kepada Anda.
+5. Agen46 Proses Transaksi.
+6. Apabila transaksi Sukses anda akan menerima bukti pembayaran dari
+Agen46 tersebut.

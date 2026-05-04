@@ -1,0 +1,16 @@
+Tata Cara Pembayaran
+
+ATM BNI
+1. Masukkan Kartu ATM Anda.
+2. Pilih Bahasa.
+3. Masukkan PIN ATM Anda.
+4. Pilih "Menu Lainnya".
+5. Pilih "Transfer".
+6. Pilih jenis rekening yang akan Anda gunakan
+Contoh: "Dari Rekening Tabungan"
+7. Pilih “Virtual Account Billing”.
+8. Masukkan 16 digit nomor Virtual Account Anda
+Contoh: 9882987301240006
+9. Tagihan yang harus dibayarkan akan muncul pada layar konfirmasi.
+10.Konfirmasi, apabila telah sesuai, lanjutkan transaksi.
+11.Transaksi Anda telah selesai

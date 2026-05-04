@@ -1,0 +1,15 @@
+Tata Cara Pembayaran
+
+OVO
+1. Buka aplikasi OVO.
+2. Pilih menu Transfer.
+3. Pilih “Rekening Bank”.
+4. Masukkan kode bank BNI (009) atau pilih bank yang dituju yaitu BNI.
+5. Masukan 16 Digit Nomor Virtual Account pada kolom rekening tujuan,
+Contoh: 9882987301240006
+6. Masukkan nominal transfer sesuai tagihan atau kewajiban Anda.
+7. Pilih “Transfer”.
+8. Konfirmasi rincian Anda akan tampil di layar.
+9. Cek dan apabila sudah sesuai silahkan pilih “Konfirmasi” untuk lanjutkan
+transaksi sampai dengan selesai.
+10.Transaksi Berhasil.

@@ -1,0 +1,12 @@
+Tata Cara Pembayaran
+
+Cabang atau Teller BNI
+1. Kunjungi kantor cabang/outlet BNI terdekat.
+2. Informasikan kepada Teller, bahwa ingin melakukan pembayaran “Virtual
+Account Billing”.
+3. Serahkan 16 digit nomor Virtual Account Anda kepada Teller.
+Contoh: 9882987301240006
+4. Teller melakukan konfirmasi kepada Anda.
+5. Teller memproses transaksi.
+6. Apabila transaksi sukses anda akan menerima bukti pembayaran dari teller
+tersebut.

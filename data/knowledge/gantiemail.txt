@@ -1,0 +1,10 @@
+Pilih opsi Ganti Email. Masukkan NIK/No. KTP, unggah scan
+KTP (maks. 500 KB), kemudian isi email pengganti yang masih
+aktif. Masukkan kode captcha, lalu klik “Periksa Data” untuk
+melanjutkan proses. 
+
+Tunggu konfirmasi yang akan dikirimkan ke email pengganti yang
+telah diinputkan. Pastikan memeriksa folder Inbox, Spam, atau Junk
+secara berkala. Email konfirmasi tersebut akan berisi nama
+peserta, nomor peserta, serta email baru yang telah terdaftar
+dalam sistem.

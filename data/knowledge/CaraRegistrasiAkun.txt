@@ -1,0 +1,20 @@
+Cara Registrasi Akun
+
+Kunjungi laman diklat.bp2tl.ac.id 
+Lakukan langkah sebagai berikut:
+1. Registrasi Akun di bawah menu Sing in dengan melakukan pengisian data yg tertera, pastikan data diri yang dicantumkan sudah sesuai ya.
+2. Jika data sudah diisi silahkan cantumkan captcha yang sesuai dengan huruf atau angka yg tertera, dan klik menu lanjut.
+3. Cek email, apakah terdapat email masuk terkait berhasilnya melakukan registrai akun pendaftar.
+4. Lakukan login ke laman yang sama dengan mencantumkan NIK pendaftar dan cantumkan captcha kembali.
+5. Cek pada bagian email untuk mekastikan kode token terkirim.
+6. Lakukan pengunggahan berkas pada menu Pendaftaran Diklat sesuai dengan diklat yang hendak di daftarkan.
+
+Dipastikan NIK, EMAIL, NOMOR WHATSAPP Sesuai dalam melakukan registrasi akun
+
+Jika sudah login pada akun silahkan lakukan langkah berikut:
+1. Klik tombol garis tiga yg tertera di sebelah kanan atas layar.
+2. Klik bagian Diklat dilanjut ke menu pendaftaran.
+3. Kolom pertama diisi sesuai dengan Jenis Diklat yang diinginkan, next di bawahnya Diklat yg hendak di pilih.
+4. Proses pengisiannya silahkan diisi tanggal terbit maupun exp diisi tanggal hari saat unggah dokumen.
+5. Pilih file yang hendak di unggah lalu langsung klik tombol UNGGAH di setiap nomornya.
+6. Lakukan step tsb secara berkala.
