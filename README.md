@@ -1,6 +1,6 @@
 # Chatbot Helpdesk BP2TL Jakarta
 
-Chatbot AI Helpdesk untuk BP2TL Jakarta dengan sistem RAG (Retrieval-Augmented Generation) menggunakan model lokal.
+Chatbot AI Helpdesk untuk BP2TL Jakarta dengan sistem RAG (Retrieval-Augmented Generation) menggunakan model groq.
 
 ## Teknologi yang Digunakan
 
@@ -9,7 +9,7 @@ Chatbot AI Helpdesk untuk BP2TL Jakarta dengan sistem RAG (Retrieval-Augmented G
 - **Embedding**: intfloat/e5-base (LOCAL)
 - **Vector Search**: FAISS
 - **Reranker**: cross-encoder/ms-marco-MiniLM-L-6-v2
-- **LLM**: Ollama dengan model llama3 (LOCAL)
+- **LLM**: groq
 - **Database**: Supabase (PostgreSQL)
 
 ### Frontend
@@ -19,9 +19,8 @@ Chatbot AI Helpdesk untuk BP2TL Jakarta dengan sistem RAG (Retrieval-Augmented G
 
 ## Fitur
 
-- 100% lokal (offline) - tidak ada biaya API
 - RAG advanced dengan E5 embedding + reranker
-- Respons natural menggunakan LLaMA 3
+- Respons natural menggunakan groq 
 - UI chat seperti WhatsApp
 - Responsive (desktop & mobile)
 - Simpan riwayat chat
