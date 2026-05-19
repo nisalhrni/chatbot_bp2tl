@@ -26,13 +26,10 @@ ollama run llama3
 
 ### 2. Setup database phpmyadmin
 
-1. Login ke https://supabase.com
-2. Buat project baru
-3. Tunggu hingga project selesai dibuat
-4. Pergi ke Settings → API
-5. Copy:
-   - Project URL
-   - anon/public key
+1. Login ke http://172.16.1.19/myadminphp
+2. Buat database baru
+3. Buat tabel-tabel yang dibutuhkan
+4. Simpan
 
 ### 3. Setup Backend
 
@@ -55,16 +52,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**Catatan**: Proses install akan download model AI (sekitar 1-2GB). Pastikan koneksi internet stabil.
+**Catatan**: Pastikan koneksi internet stabil.
 
 ### 4. Konfigurasi Environment Variables
 
 ```bash
-# Copy file .env.example
-cp .env.example .env
-
 # Edit file .env dengan text editor favorit Anda
-# Isi dengan credentials Supabase:
+# Isi dengan credentials :
 
 SUPABASE_URL=https://xxxxx.supabase.co
 SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
