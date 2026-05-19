@@ -4,14 +4,10 @@ Panduan lengkap untuk menjalankan Chatbot Helpdesk BP2TL Jakarta.
 
 ## Prasyarat Sistem
 
-1. **Python 3.9 atau lebih tinggi**
+1. **Python 3.11 atau lebih tinggi**
    - Download: https://www.python.org/downloads/
 
 2. **Groq**
-
-3. **Ollama**
-   - Download: https://ollama.ai
-   - Untuk menjalankan model LLaMA 3 lokal
 
 ## Langkah Setup
 
