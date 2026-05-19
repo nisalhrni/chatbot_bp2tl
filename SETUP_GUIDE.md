@@ -7,14 +7,13 @@ Panduan lengkap untuk menjalankan Chatbot Helpdesk BP2TL Jakarta.
 1. **Python 3.11 atau lebih tinggi**
    - Download: https://www.python.org/downloads/
 
-2. **Groq**
 
 ## Langkah Setup
 
-### 1. Install dan Setup Ollama
+### 1. Install dan Setup Groq
 
 ```bash
-# Download dan install Ollama dari https://ollama.ai
+# Download dan install groq dari https://ollama.ai
 
 # Setelah install, download model llama3
 ollama pull llama3
@@ -25,7 +24,7 @@ ollama run llama3
 
 **PENTING**: Biarkan Ollama tetap berjalan di terminal ini!
 
-### 2. Setup Supabase
+### 2. Setup database phpmyadmin
 
 1. Login ke https://supabase.com
 2. Buat project baru
@@ -136,25 +135,6 @@ INFO:     Uvicorn running on http://0.0.0.0:8000
 
 **JANGAN tutup terminal ini!** Backend harus tetap berjalan.
 
-### 7. Setup dan Jalankan Frontend
-
-Buka terminal BARU (jangan tutup terminal backend):
-
-```bash
-# Dari root folder project
-npm install
-
-# Jalankan development server
-npm run dev
-```
-
-Output:
-```
-VITE v5.4.8  ready in xxx ms
-
-➜  Local:   http://localhost:5173/
-➜  Network: use --host to expose
-```
 
 ### 8. Buka Browser
 
