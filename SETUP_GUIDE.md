@@ -7,17 +7,11 @@ Panduan lengkap untuk menjalankan Chatbot Helpdesk BP2TL Jakarta.
 1. **Python 3.9 atau lebih tinggi**
    - Download: https://www.python.org/downloads/
 
-2. **Node.js 18 atau lebih tinggi**
-   - Download: https://nodejs.org/
+2. **Groq**
 
 3. **Ollama**
    - Download: https://ollama.ai
    - Untuk menjalankan model LLaMA 3 lokal
-
-4. **Akun Supabase**
-   - Daftar di: https://supabase.com
-   - Buat project baru
-   - Dapatkan URL dan Anon Key
 
 ## Langkah Setup
 
